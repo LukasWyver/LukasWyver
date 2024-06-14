@@ -23,11 +23,9 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 
-
-
-
-<br><br>
 <!--
+<br><br>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
