@@ -1,4 +1,4 @@
-<img align="right" height="560em" src="https://raw.githubusercontent.com/gist/LukasWyver/2c44b8c40acb5076656ddd66bb04e77f/raw/409eb64191d2b369d81606e0ff53a905157ac890/lukaswyver.svg"/>
+<img align="right" height="560em" style="z-index:99" src="https://raw.githubusercontent.com/gist/LukasWyver/2c44b8c40acb5076656ddd66bb04e77f/raw/409eb64191d2b369d81606e0ff53a905157ac890/lukaswyver.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Wyver</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
