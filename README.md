@@ -1,4 +1,5 @@
-<img align="right" height="590em" style="z-index:99" src="https://raw.githubusercontent.com/gist/LukasWyver/2c44b8c40acb5076656ddd66bb04e77f/raw/82d1854a3bcf2c675f4bf0c2a65b3d28078e27f3/lukaswyver.svg"/>
+<img align="right" height="590em" style="z-index:99; display: none;" src="https://raw.githubusercontent.com/gist/LukasWyver/2c44b8c40acb5076656ddd66bb04e77f/raw/82d1854a3bcf2c675f4bf0c2a65b3d28078e27f3/lukaswyver.svg"/> 
+<!-- <a href="https://app.rocketseat.com.br/me/lucaswyver"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=lucaswyver&type=card" align="right" width="280" style="z-index:99"  alt="Lucas Wyver Gimenes's Rocket ID"/></a> -->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Wyver</h1>
 
 - 🔥 Junior Web Developer focused on front-end.
